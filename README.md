@@ -6,6 +6,10 @@
 
 i-Panel, Mac'in menü çubuğunda çalışan küçük bir durum göstergesi ve hızlı kontrol panelidir. Menü çubuğunda macOS'un kendi sade, tek renkli üçlü-kart sembolünü kullanır; yukarıdaki renkli işaret ise Finder, DMG ve proje görselidir.
 
+## Geliştirme notu
+
+i-Panel, proje sahibinin ürün fikri, kapsamı, görsel tercihleri ve gerçek Mac üzerindeki kabul testleri doğrultusunda geliştirildi. Swift/Xcode uygulama kodu, hata ayıklama ve dokümantasyon çalışmaları ise proje sahibinin yönlendirmesiyle **ChatGPT 5.6 Terra (OpenAI Codex)** yapay zekâ geliştirme asistanının desteği kullanılarak birlikte yürütüldü. Proje sahipliği ile tüm ürün ve yayın kararları proje sahibine aittir.
+
 ## İndir — 1.2 (Build 3)
 
 [**i-Panel-1.2-build-3-unsigned.dmg dosyasını indir**](https://github.com/enesmisirlioglu0/i-Panel/releases/download/v1.2/i-Panel-1.2-build-3-unsigned.dmg)
