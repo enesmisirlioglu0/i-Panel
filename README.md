@@ -58,7 +58,7 @@ Tüm gösterge değerleri uygulamanın çalıştığı Mac'te public ve salt oku
 
 ## Kaynak kod
 
-Swift/Xcode kaynakları da artık açıktır: [i-Panel-Source](https://github.com/enesmisirlioglu0/i-Panel-Source). Kaynak kod [MIT Lisansı](https://github.com/enesmisirlioglu0/i-Panel-Source/blob/main/LICENSE) ile kullanılabilir, değiştirilebilir ve dağıtılabilir. İndirme ve sürüm notları ise bu depodaki GitHub Releases alanında tutulur.
+Swift/Xcode kaynak kodu deposu özeldir ve herkese açık değildir. Daha önce yayımlanmış kaynak kodun [MIT Lisansı](./LICENSE) bu depoda erişilebilir kalır. Uygulama indirmeleri ve sürüm notları bu depodaki herkese açık GitHub Releases alanında tutulur.
 
 ## Belgeler
 
